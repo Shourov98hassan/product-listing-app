@@ -7,4 +7,21 @@
   height: 100px;
   width: 100%;
   background-color: #EB4D4B;
+  color: antiquewhite;
+  text-align: center;
+  position: relative;
+  position:sticky;
+  top: 0;
+  
 }
+
+.navbar h1{
+ position: absolute;
+ left: 42%;
+ top: 25%;
+}
+
+.navbar h1:hover{
+  color: #1C8D73;
+  transition: 1s;
+ }
