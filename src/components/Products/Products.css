@@ -4,13 +4,37 @@
 }
 
 .card-body{
-    height: 100px;
-    width: 400px;
+    height: 450px;
+    width: 300px;
     background-color:#12B0E8;
     display: inline-block;
     margin: 10px;
     padding: 10px;
    border-radius: 5px;
-   margin-left: 22px;
+   margin-left: 90px;
    box-shadow: 2px 4px 4px #6A1B4D;
+   margin-top: 7px;
+}
+
+.card-body img{
+  height: 300px;
+  width: 300px;
+  border-radius: 5px;
+}
+
+.btn{
+    background-color:#CAD5E2;
+    border: none;
+    height: 40px;
+    width: 90px;
+    border-radius: 7px;
+    color:#FF6666;
+    font-weight: bold;
+    margin-top: 7px;
+}
+
+.btn:hover{
+   background-color:#242B2E;
+   color: white;
+   transition: 1s;
 }
