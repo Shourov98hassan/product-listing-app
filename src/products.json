@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "title":"Girls Fashion 1",
+        "price":"$109.95",
+        "Rating":"3.9/5",
+        "descripton":"This is very amazing products at this winter"
+
+    },
+    {
+        "id":2,
+        "title":"Girls Fashion 2",
+        "price":"$209.95",
+        "Rating":"4.9/5",
+        "descripton":"This is very amazing products at this winter"
+
+    },
+    {
+        "id":3,
+        "title":"Girls Fashion 3",
+        "price":"$309.95",
+        "Rating":"3.8/5",
+        "descripton":"This is very amazing products at this winter"
+
+    },
+    {
+        "id":4,
+        "title":"Girls Fashion 4",
+        "price":"$09.95",
+        "Rating":"3.5/5",
+        "descripton":"This is very amazing products at this winter"
+
+    },
+    {
+        "id":5,
+        "title":"Girls Fashion 5",
+        "price":"$19.95",
+        "Rating":"3.2/5",
+        "descripton":"This is very amazing products at this winter"
+
+    },
+    {
+        "id":6,
+        "title":"Girls Fashion 6",
+        "price":"$59.95",
+        "Rating":"4.9/5",
+        "descripton":"This is very amazing products at this winter"
+
+    }
+]
